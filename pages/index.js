@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <main className={styles.main}>
-       Next.js & AWS & Github Action !!
+       Next.js & AWS & Github Action !!!!
       </main>
     </div>
   )
