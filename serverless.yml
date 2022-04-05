@@ -5,7 +5,7 @@ myNextApplication:
       defaultLambda: DefaultLambda	#Default Lambda의 이름 설정 
       imageLambda: ImageLambda	# Image Lambda의 이름 설정
     bucketRegion: 'ap-northeast-2'	# S3 Bucket 지역 설정
-    bucketName: 'vivr4mg-qtbljbq'
+    # bucketName: 'vivr4mg-qtbljbq'
     cloudfront:
-      distributionId: 'E1OUVIGZU5C05H',
+      # distributionId: 'E1OUVIGZU5C05H',
       comment: 'next deploy'	# CloudFront 설명 설정
